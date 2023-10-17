@@ -1,0 +1,8 @@
+name=PITRI
+author=MaJeeDooo0010
+description=Split and Connect as an insect-flower-hybrid exploring the end of the world.
+bundleID=com.MaJeeDooo0010.PITRI
+version=0.0.1
+buildNumber=5
+imagePath=SystemAssets/
+launchSoundPath=sound/welcome
